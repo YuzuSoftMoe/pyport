@@ -1,2 +1,0 @@
-# pyport
-scan
